@@ -1,4 +1,4 @@
-                                     # Hi 👋🏻, I'm Shivnandan !
+                                     # Hi 👋🏻, I'm shivnandan225 !
 
 ### 📊 Aspiring Data Analyst | 🤖 Machine Learning | 🧠 Deep Learning Enthusiast | 📈 Data Visualization
 
