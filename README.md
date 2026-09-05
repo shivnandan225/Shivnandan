@@ -29,7 +29,6 @@
 
 ### 🤖 Machine Learning
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 ![KNN](https://img.shields.io/badge/KNN-007ACC?style=for-the-badge)
 ![SVM](https://img.shields.io/badge/SVM-333333?style=for-the-badge)
